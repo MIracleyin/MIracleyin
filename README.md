@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 
 #### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIracleyin)](https://github.com/MIracleyin/github-readme-stats)
+
+#### MIracleyin's GitHub Stats
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIracleyin&show_icons=true&theme=tokyonight)
