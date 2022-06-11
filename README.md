@@ -19,15 +19,12 @@ This is [MIracleyin](https://github.com/MIracleyin), a secend-year Master studen
 
 ## About Me
 
+<img width="400" align="right" src="https://github-readme-stats.vercel.app/api?username=MIracleyin&show_icons=true&theme=github_dark"/>
+
 - 🔭 I’m currently working on a productivity software company with ML algorithm
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) in my private repos
 - 👯 My research interests include recommender systems, social tagging systems, information retrieval and graph learning
 
-#### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/MIracleyin/count.svg)
-
-#### Top Langs
+## Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIracleyin)](https://github.com/MIracleyin/github-readme-stats)
 
-#### MIracleyin's GitHub Stats
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIracleyin&show_icons=true&theme=tokyonight)
