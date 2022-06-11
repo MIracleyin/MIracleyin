@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **MIracleyin/MIracleyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is [MIracleyin](https://github.com/MIracleyin), a secend-year Master student majoring in Computer Science.
+
+## About Me
+
+- 🔭 I’m currently working on a productivity software company with ML algorithm
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) in my private repos
+- 👯 My research interests include recommender systems, social tagging systems, information retrieval and graph learning
 
 #### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/MIracleyin/count.svg)
