@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is [MIracleyin](https://github.com/MIracleyin). I like to 💻**code**, 📚**reading**, and write some **blogs**.
+This is [MIracleyin](https://github.com/MIracleyin). I like to 💻**code**, 📚**reading**, 🎾**tennis**, 📸**photography**, and write some 📖**blogs**.
 
 ## About Me
 
