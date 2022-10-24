@@ -21,7 +21,7 @@ This is [MIracleyin](https://github.com/MIracleyin). I like to 💻**code**, �
 
 <img width="400" align="right" src="https://github-readme-stats.vercel.app/api?username=MIracleyin&show_icons=true&theme=github_dark"/>
 
-- 😄 A secend-year Master student.
+- 😄 A last-year Master student, look for a PhD position.
 - 🔭 I’m currently working on a productivity software company with ML algorithm.
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) in my private repos.
 - 👯 My research interests include recommender systems, social tagging systems, information retrieval and graph learning.
