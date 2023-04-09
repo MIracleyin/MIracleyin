@@ -23,7 +23,7 @@ This is [MIracleyin](https://github.com/MIracleyin). I like to 💻**code**, �
 
 - 😄 A last-year Master student, look for a PhD position.
 - 🔭 I’m currently working on my master thesis.
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) in my private repos.
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) in [OS lab](https://github.com/LearningOS) and my private repos.
 - 👯 My research interests include recommender systems, social tagging systems, information retrieval and graph learning.
 
 ## Top Langs
